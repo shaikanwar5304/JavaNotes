@@ -1,0 +1,1 @@
+//Encapsulation means to enclose something into a capsule or container

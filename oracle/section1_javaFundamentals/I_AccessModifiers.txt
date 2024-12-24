@@ -1,0 +1,4 @@
+public -> access from any where
+protected -> access only inside package containing modifier
+private-> inside the same class
+default(not specified) -> access inside class subclass other classes of same package 
